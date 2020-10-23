@@ -2,6 +2,8 @@
 
 # Raspberry Pi BTCT Node
 
+<b>Updated with bitcointoken v2.0 binaries!!</b>
+
 Based on the official Raspbian image, using pi-gen to create. Should work on any Pi hardware that supports Raspbian Buster. Tested on Pi4 w/ 4GB, Pi3 and Pi Zero.
 
 Some notes:
