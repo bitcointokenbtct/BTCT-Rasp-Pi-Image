@@ -7,7 +7,7 @@ SKIP
 .pc
 *-pc
 apt-cacher-ng/
-stage2/05-btct-1.1/bootstrap/blocks/*
-stage2/05-btct-1.1/bootstrap/chainstate/*
-stage2/05-btct-1.1/bootstrap/index/*
-stage2/05-btct-1.1/bootstrap/sporks/*
+stage2/05-btct/bootstrap/blocks/*
+stage2/05-btct/bootstrap/chainstate/*
+stage2/05-btct/bootstrap/index/*
+stage2/05-btct/bootstrap/sporks/*
